@@ -11,3 +11,5 @@ def dup_check(list_):
       print('There are dupes!') 
 
 dup_check(list_)
+
+# What if we had a differnt data type? {}
